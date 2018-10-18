@@ -1,1 +1,1 @@
-# pyloggers
+# Telegram Python logger.
